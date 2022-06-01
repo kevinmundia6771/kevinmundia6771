@@ -1,7 +1,7 @@
-[![MasterHead]([https://email.uplers.com/blog/wp-content/uploads/2020/07/GIF-blog.gif](https://pbs.twimg.com/profile_banners/948395221129355266/1640833019/600x200))](https://rishavchanda.io)
+[![MasterHead](https://email.uplers.com/blog/wp-content/uploads/2020/07/GIF-blog.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm KEVIN MUNDIA</h1>
 <h3 align="center">A passionate frontend Dev from Kenya</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/7c/e9/e3/7ce9e34927261d3b035090cac779fec5.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinmundia6771&label=Profile%20views&color=0e75b6&style=flat" alt="kevinmundia6771" /> </p>
 

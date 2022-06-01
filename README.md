@@ -1,4 +1,4 @@
-[![MasterHead](https://email.uplers.com/blog/wp-content/uploads/2020/07/GIF-blog.gif)](https://rishavchanda.io)
+[![MasterHead]([https://email.uplers.com/blog/wp-content/uploads/2020/07/GIF-blog.gif](https://pbs.twimg.com/profile_banners/948395221129355266/1640833019/600x200))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm KEVIN MUNDIA</h1>
 <h3 align="center">A passionate frontend Dev from Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
